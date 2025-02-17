@@ -109,6 +109,8 @@ body {
 
 .c-item{
     height:95vh;
+    align-items:center;
+    justify-content:center;
 }
 
 .c-img{

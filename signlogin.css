@@ -24,6 +24,15 @@ body {
   text-decoration: none;
 }
 
+.fool2{
+  background-image: linear-gradient(to right top, #97cbfc, #97cbfc, #97cbfc, #97cbfc, #97cbfc);
+  height: 65vh;
+  /* padding: 50px 0; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 .logo1{
   width: 50px;
   /* margin-right: auto; */

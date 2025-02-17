@@ -31,6 +31,14 @@ body {
     margin-left: none;
 }
 
+.fool1{
+  background-image: linear-gradient(to right top, #97cbfc, #97cbfc, #97cbfc, #97cbfc, #97cbfc);
+  /* height: 85vh; */
+  padding: 50px 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 
 .nav-links {
     display: flex;

@@ -66,6 +66,7 @@ h1{
     font-weight: 900;
     background: linear-gradient(#62a0fd, rgba(1, 18, 92, 0.966));
     padding: 8px;
+    margin:0;
 }
 
 .ifr{
